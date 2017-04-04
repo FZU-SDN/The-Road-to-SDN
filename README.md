@@ -14,12 +14,12 @@ Awesome SDN 收集了一系列关于SDN的资料及相关学习平台。
 
  步骤 | 依赖 | 时间 | 难度 
 ----|----|----|----
-1. Coursera: Network History| 无 | 一个月 | 中
-2. SDN Course 2013/2014 | 1 | 一个月 | 中
+1.Coursera: Network History| 无 | 一个月 | 中
+2.SDN Course 2013/2014 | 1 | 一个月 | 中
 3.《重构网络：SDN架构与实现》| 无 | 一个月 | 中
-4. 开设博客，Github | 无 | 一周 | 易
-5. Linux操作系统，Ubuntu 14.04| 无 | 持续跟进 | 中
-6. mininet: Learning by Doing| 5 | 持续跟进 | 易
+4.开设博客，Github | 无 | 一周 | 易
+5.Linux操作系统，Ubuntu 14.04| 无 | 持续跟进 | 中
+6.mininet: Learning by Doing| 5 | 持续跟进 | 易
 
 ## 相关学习资源
 
