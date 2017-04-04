@@ -37,7 +37,23 @@ Awesome SDN 收集了一系列关于SDN的资料及相关学习平台。
 
 **4.mininet：**
 
-[SDNLAB 实验平台](http://www.sdnlab.com/experimental-platform/)
+mininet安装：
+
+[通过脚本快速安装Open vSwitch2.3.0和Mininet](http://www.sdnlab.com/3046.html)
+
+mininet学习：
+
+[mininet学习指南 李呈](http://www.sdnlab.com/11495.html)
+
+与控制器结合：
+
+(1)OpenDayLight:
+
+[OpenDaylight与Mininet应用实战之基本环境搭建](http://www.sdnlab.com/1749.html)
+
+(2)Ryu:
+
+[RYU入门教程](http://www.sdnlab.com/1785.html)
 
 **5.入门论文两篇：**
 
@@ -49,3 +65,7 @@ Hint：资源可从以下途径获取：
 
 - 学校图书馆网页 => 期刊 => IEEE/ACM搜索获得 
 - 谷歌学术搜索
+
+**6.实验平台：**
+
+[SDNLAB 实验平台](http://www.sdnlab.com/1749.html)
