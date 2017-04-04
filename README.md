@@ -23,18 +23,26 @@ Awesome SDN 收集了一系列关于SDN的资料及相关学习平台。
 
 ## 相关学习资源
 
-1.Coursera Network History: [密歇根大学网络课程](https://www.coursera.org/learn/internet-history)
+**1.Coursera Network History:**
 
-2.SDN Course: [2014年SDN课程，需翻墙](https://www.youtube.com/watch?v=I-XdDffLMqc&list=PLpherdrLyny-4Y6jXKvi0Ia9jJAk3M_Bs)
+[密歇根大学网络课程](https://www.coursera.org/learn/internet-history)
 
-3.《重构网络》：自行购买。
+**2.SDN Course:**
 
-4.mininet：[SDNLAB 实验平台](http://www.sdnlab.com/experimental-platform/)
+[2014年SDN课程，需翻墙](https://www.youtube.com/watch?v=I-XdDffLMqc&list=PLpherdrLyny-4Y6jXKvi0Ia9jJAk3M_Bs)
 
-5.入门论文两篇：
+**3.《重构网络》：**
+
+自行购买。链接：[SDNLAB 《重构网络》](http://www.sdnlab.com/book/18762.html)
+
+**4.mininet：**
+
+[SDNLAB 实验平台](http://www.sdnlab.com/experimental-platform/)
+
+**5.入门论文两篇：**
 
 中：《The Road to SDN》
 
 难：《Software-Defined Networking: A Comprehensive Survey》
 
-资源可从学校图书馆网页 => 期刊 => IEEE/ACM搜索获得
+Hint：资源可从学校图书馆网页 => 期刊 => IEEE/ACM搜索获得
