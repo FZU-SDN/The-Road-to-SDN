@@ -45,4 +45,7 @@ Awesome SDN 收集了一系列关于SDN的资料及相关学习平台。
 
 难：《Software-Defined Networking: A Comprehensive Survey》
 
-Hint：资源可从 1.学校图书馆网页 => 期刊 => IEEE/ACM搜索获得 2.谷歌学术搜索
+Hint：资源可从以下途径获取：
+
+- 学校图书馆网页 => 期刊 => IEEE/ACM搜索获得 
+- 谷歌学术搜索
