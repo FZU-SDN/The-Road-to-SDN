@@ -60,6 +60,12 @@ mininet学习：
 - [RYU tutorial](http://ryu.readthedocs.io/en/latest/getting_started.html)
 - [《RYU BOOK》](https://github.com/peiqiaoWang/The-Road-to-SDN/blob/master/RYU/Ryubook.pdf)
 
+与底层交换机结合：
+
+(1)Open vSwitch
+
+[OVS基本命令](https://github.com/peiqiaoWang/The-Road-to-SDN/blob/master/OVS/ovs-commands-reference.pdf)
+
 **5.入门论文两篇：**
 
 中：《The Road to SDN》
