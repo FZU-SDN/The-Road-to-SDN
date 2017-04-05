@@ -12,14 +12,14 @@ Awesome SDN 收集了一系列关于SDN的资料及相关学习平台。
 
 ## The Road to SDN - List
 
- 步骤 | 依赖 | 时间 | 难度 
-----|----|----|----
-1.Coursera: Network History| 无 | 一个月 | 中
-2.SDN Course 2013/2014 | 1 | 一个月 | 中
-3.《重构网络：SDN架构与实现》| 无 | 一个月 | 中
-4.开设博客，Github | 无 | 一周 | 易
-5.Linux操作系统，Ubuntu 14.04| 无 | 持续跟进 | 中
-6.mininet: Learning by Doing| 5 | 持续跟进 | 易
+| 步骤                           | 依赖   | 时间   | 难度   |
+| ---------------------------- | ---- | ---- | ---- |
+| 1.Coursera: Network History  | 无    | 一个月  | 中    |
+| 2.SDN Course 2013/2014       | 1    | 一个月  | 中    |
+| 3.《重构网络：SDN架构与实现》            | 无    | 一个月  | 中    |
+| 4.开设博客，Github                | 无    | 一周   | 易    |
+| 5.Linux操作系统，Ubuntu 14.04     | 无    | 持续跟进 | 中    |
+| 6.mininet: Learning by Doing | 5    | 持续跟进 | 易    |
 
 ## 相关学习资源
 
@@ -53,7 +53,12 @@ mininet学习：
 
 (2)Ryu:
 
-[RYU入门教程](http://www.sdnlab.com/1785.html)
+- [RYU Github](https://github.com/osrg/ryu)
+
+
+- [RYU入门教程](http://www.sdnlab.com/1785.html)
+- [RYU tutorial](http://ryu.readthedocs.io/en/latest/getting_started.html)
+- [《RYU BOOK》](https://github.com/peiqiaoWang/The-Road-to-SDN/blob/master/RYU/Ryubook.pdf)
 
 **5.入门论文两篇：**
 
