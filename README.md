@@ -45,7 +45,7 @@ mininet学习：
 
 [mininet学习指南 李呈](http://www.sdnlab.com/11495.html)
 
-与控制器结合：
+控制平面：
 
 (1)OpenDayLight:
 
@@ -55,12 +55,11 @@ mininet学习：
 
 - [RYU Github](https://github.com/osrg/ryu)
 
-
 - [RYU入门教程](http://www.sdnlab.com/1785.html)
 - [RYU tutorial](http://ryu.readthedocs.io/en/latest/getting_started.html)
 - [《RYU BOOK》](https://github.com/peiqiaoWang/The-Road-to-SDN/blob/master/RYU/Ryubook.pdf)
 
-与底层交换机结合：
+数据平面：
 
 (1)Open vSwitch
 
