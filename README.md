@@ -55,25 +55,44 @@ mininet学习：
 
 - [RYU Github](https://github.com/osrg/ryu)
 
-- [RYU入门教程](http://www.sdnlab.com/1785.html)
+- [RYU 入门教程](http://www.sdnlab.com/1785.html)
+
 - [RYU tutorial](http://ryu.readthedocs.io/en/latest/getting_started.html)
+
 - [《RYU BOOK》](https://github.com/peiqiaoWang/The-Road-to-SDN/blob/master/RYU/Ryubook.pdf)
 
 数据平面：
 
-(1)Open vSwitch
+(1)Open vSwitch:
 
 [OVS基本命令](https://github.com/peiqiaoWang/The-Road-to-SDN/blob/master/OVS/ovs-commands-reference.pdf)
 
+(2)P4:
+
+- [Official Website](http://p4.org/)
+
+- [2017 FZU P4 Workshop](https://github.com/Wasdns/2017_FZU_P4_Workshop)
+
+- [Open SDN Engineer Skill Map: P4](https://github.com/PONOUBA/opensdn_engineer_skill_map/blob/master/skill_map_md/data_plane.md#p4)
+
+- [P4 Github: p4lang](https://github.com/p4lang)
+
 **5.入门论文两篇：**
 
-中：《The Road to SDN》
+中：
 
-难：《Software-Defined Networking: A Comprehensive Survey》
+- 《The Road to SDN》
+
+- 《OpenFlow: Enabling Innovation in Campus Networks》
+
+难：
+
+- 《Software-Defined Networking: A Comprehensive Survey》
 
 Hint：资源可从以下途径获取：
 
 - 学校图书馆网页 => 期刊 => IEEE/ACM搜索获得 
+
 - 谷歌学术搜索
 
 **6.实验平台：**
