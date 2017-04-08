@@ -98,3 +98,7 @@ Hint：资源可从以下途径获取：
 **6.实验平台：**
 
 [SDNLAB 实验平台](http://www.sdnlab.com/1749.html)
+
+**7.SDN Guide:**
+
+[SDNLAB SDN Guide](http://www.sdnlab.com/sdn-guide/)
