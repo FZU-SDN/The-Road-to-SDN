@@ -4,6 +4,20 @@ Fuzhou University SDN Lab - The Road to SDN
 
 本文是福州大学SDN实验室对于SDN如何入门，入门的步骤以及顺序做的一个列表/清单。
 
+## Get Start
+
+To clone this repo, first you should git clone it. Then clone the submodules:
+
+```
+git submodule update --init --recursive
+```
+
+To update submodules:
+
+```
+git submodule update --remote --merge
+```
+
 ## Awesome SDN
 
 Awesome SDN 收集了一系列关于SDN的资料及相关学习平台。
