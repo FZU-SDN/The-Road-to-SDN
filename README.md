@@ -2,7 +2,7 @@
 
 Fuzhou University SDN Lab - The Road to SDN
 
-本文是福州大学SDN实验室对于SDN如何入门，入门的步骤以及顺序做的一个列表/清单。
+This page is a list of steps and procedures for how SDN is getting started in SDN Labs at Fuzhou University.
 
 ## Get Start
 
@@ -20,46 +20,46 @@ git submodule update --remote --merge
 
 ## Awesome SDN
 
-Awesome SDN 收集了一系列关于SDN的资料及相关学习平台。
+The following link has collected a series of information and related learning platforms for SDN.
 
 [Wasdns Awesome SDN](https://github.com/Wasdns/awesome-sdn)
 
 ## The Road to SDN - List
 
-| 步骤                           | 依赖   | 时间   | 难度   |
+| Step                           | Prerequisite knowledge   | Time   | Difficulty   |
 | ---------------------------- | ---- | ---- | ---- |
-| 1.Coursera: Network History  | 无    | 一个月  | 中    |
-| 2.SDN Course 2013/2014       | 1    | 一个月  | 中    |
-| 3.《重构网络：SDN架构与实现》            | 无    | 一个月  | 中    |
-| 4.开设博客，Github                | 无    | 一周   | 易    |
-| 5.Linux操作系统，Ubuntu 14.04     | 无    | 持续跟进 | 中    |
-| 6.mininet: Learning by Doing | 5    | 持续跟进 | 易    |
+| 1.Coursera: Network History  | No    | 1 month  | middle    |
+| 2.SDN Course 2013/2014       | 1     | 1 month  | middle    |
+| 3.《重构网络：SDN架构与实现》  |  No   | 1 month  | middle    |
+| 4.开设博客，Github            | No   | 1 week   | easy    |
+| 5.Linux操作系统，Ubuntu 14.04 |  No  | a period of time | middle    |
+| 6.mininet: Learning by Doing | 5    | a period of time | easy    |
 
-## 相关学习资源
+## Learning Resources
 
 **1.Coursera Network History:**
 
-[密歇根大学网络课程](https://www.coursera.org/learn/internet-history)
+[Coursera - University of Michigan, Internet History](https://www.coursera.org/learn/internet-history)
 
 **2.SDN Course:**
 
-[2014年SDN课程，需翻墙](https://www.youtube.com/watch?v=I-XdDffLMqc&list=PLpherdrLyny-4Y6jXKvi0Ia9jJAk3M_Bs)
+[Nick Feamster SDN course](https://www.youtube.com/watch?v=I-XdDffLMqc&list=PLpherdrLyny-4Y6jXKvi0Ia9jJAk3M_Bs)
 
 **3.《重构网络》：**
 
-自行购买。链接：[SDNLAB 《重构网络》](http://www.sdnlab.com/book/18762.html)
+[SDNLAB 《重构网络》](http://www.sdnlab.com/book/18762.html)
 
 **4.mininet：**
 
-mininet安装：
+mininet deployment：
 
 [通过脚本快速安装Open vSwitch2.3.0和Mininet](http://www.sdnlab.com/3046.html)
 
-mininet学习：
+mininet learning：
 
 [mininet学习指南 李呈](http://www.sdnlab.com/11495.html)
 
-控制平面：
+Control plane：
 
 (1)OpenDayLight:
 
@@ -75,7 +75,7 @@ mininet学习：
 
 - [《RYU BOOK》](https://github.com/peiqiaoWang/The-Road-to-SDN/blob/master/RYU/Ryubook.pdf)
 
-数据平面：
+Data plane：
 
 (1)Open vSwitch:
 
@@ -93,25 +93,25 @@ mininet学习：
 
 - [P4 Github: p4lang](https://github.com/p4lang)
 
-**5.入门论文两篇：**
+**5.introductory papers：**
 
-中：
+middle level：
 
 - 《The Road to SDN》
 
 - 《OpenFlow: Enabling Innovation in Campus Networks》
 
-难：
+hard level：
 
 - 《Software-Defined Networking: A Comprehensive Survey》
 
-Hint：资源可从以下途径获取：
+Hint：Resources are available from:
 
-- 学校图书馆网页 => 期刊 => IEEE/ACM搜索获得 
+- School Library Homepage => Journal => IEEE / ACM Search
 
-- 谷歌学术搜索
+- Google Academic Search
 
-**6.实验平台：**
+**6.Experiment Platform：**
 
 [SDNLAB 实验平台](http://www.sdnlab.com/1749.html)
 
