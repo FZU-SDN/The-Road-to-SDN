@@ -45,17 +45,17 @@ This link is useful for those who do not have any basic knowledge of computer ne
 - [计算机网络（第5版）](https://book.douban.com/subject/10510747/)
 
 
-**3.SDN Course:**
+**2.SDN Course:**
 
 - [Nick Feamster SDN course1](https://www.youtube.com/watch?v=I-XdDffLMqc&list=PLpherdrLyny-4Y6jXKvi0Ia9jJAk3M_Bs)
 - [Nick Feamster SDN course2](https://www.youtube.com/watch?v=dkUDUb9GtH0&list=PLpherdrLyny8YN4M24iRJBMCXkLcGbmhY)
 
 
-**4.《重构网络》：**
+**3.《重构网络》：**
 
 - [SDNLAB_《重构网络》](http://www.sdnlab.com/book/18762.html)
 
-**5.Linux/mininet：**
+**4.Linux/mininet：**
 
 - [Linux命令行与shell脚本编程大全](https://book.douban.com/subject/26854226/)
 
@@ -95,7 +95,7 @@ Data plane devices：
 - [Open SDN Engineer Skill Map: P4](https://github.com/PONOUBA/opensdn_engineer_skill_map/blob/master/skill_map_md/data_plane.md#p4)
 - [Github: p4lang](https://github.com/p4lang)
 
-**6.Introduction papers：**
+**5.Introduction papers：**
 
 - 《The road to SDN - an intellectual history of programmable networks》
 - 《OpenFlow: Enabling Innovation in Campus Networks》
@@ -106,7 +106,7 @@ Hint：They can be acquired from:
 - School library homepage => Journal => IEEE or ACM Search
 - Google academic search
 
-**7.Experiment platform：**
+**6.Experiment platform：**
 
 - [SDNLAB 实验平台](http://www.sdnlab.com/1749.html)
 - [SDNLAB SDN Guide](http://www.sdnlab.com/sdn-guide/)
