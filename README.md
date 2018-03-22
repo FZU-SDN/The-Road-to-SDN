@@ -20,30 +20,44 @@ git submodule update --remote --merge
 
 ## The Road to SDN
 
-| Step                           | Prerequisite knowledge   | Time   | Difficulty   |
+| Step                         | Prerequisite knowledge   | Time   | Difficulty   |
 | ---------------------------- | ---- | ---- | ---- |
-| 1.Coursera: Network History  | No    | 1 month  | middle    |
-| 2.SDN Course 2013/2014       | 1     | 1 month  | middle    |
-| 3.《重构网络：SDN架构与实现》  |  No   | 1 month  | middle    |
-| 4.开设博客，Github            | No   | 1 week   | easy    |
-| 5.Linux操作系统，Ubuntu 14.04 |  No  | a period of time | middle    |
-| 6.mininet: Learning by Doing | 5    | a period of time | easy    |
+| 0.Coursera: Network History  | No   | 1 month  | middle    |
+| 1.TCP/IP protocol stack      | No   | 2 month  | middle    |
+| 2.SDN Course 2013/2014       | 1    | 1 month  | middle    |
+| 3.《重构网络：SDN架构与实现》  |  No  | 1 month  | middle    |
+| 4.开设博客，Github            | No   | 1 week   | easy      |
+| 5.Linux操作系统，Ubuntu       |  No  | a period of time | middle    |
+| 6.mininet: Learning by Doing | 5    | a period of time | easy      |
 
 ## Learning Resources
 
-**1.Coursera Network History:**
+**0.Coursera Network History:**
 
-[Coursera - University of Michigan, Internet History](https://www.coursera.org/learn/internet-history)
+This link is useful for those who do not have any basic knowledge of computer networks.
 
-**2.SDN Course:**
+- [Coursera - University of Michigan, Internet History](https://www.coursera.org/learn/internet-history)
 
-[Nick Feamster SDN course](https://www.youtube.com/watch?v=I-XdDffLMqc&list=PLpherdrLyny-4Y6jXKvi0Ia9jJAk3M_Bs)
+**1. TCP/IP**
 
-**3.《重构网络》：**
+- [Coursera - TCP/IP and Advanced Topics](https://www.coursera.org/learn/tcp-ip-advanced)
+- [TCP/IP详解 卷1：协议](https://book.douban.com/subject/4707725/)
+- [计算机网络（第5版）](https://book.douban.com/subject/10510747/)
 
-[SDNLAB_《重构网络》](http://www.sdnlab.com/book/18762.html)
 
-**4.mininet：**
+**3.SDN Course:**
+
+- [Nick Feamster SDN course1](https://www.youtube.com/watch?v=I-XdDffLMqc&list=PLpherdrLyny-4Y6jXKvi0Ia9jJAk3M_Bs)
+- [Nick Feamster SDN course2](https://www.youtube.com/watch?v=dkUDUb9GtH0&list=PLpherdrLyny8YN4M24iRJBMCXkLcGbmhY)
+
+
+**4.《重构网络》：**
+
+- [SDNLAB_《重构网络》](http://www.sdnlab.com/book/18762.html)
+
+**5.Linux/mininet：**
+
+- [Linux命令行与shell脚本编程大全](https://book.douban.com/subject/26854226/)
 
 Installation：
 
@@ -81,9 +95,9 @@ Data plane devices：
 - [Open SDN Engineer Skill Map: P4](https://github.com/PONOUBA/opensdn_engineer_skill_map/blob/master/skill_map_md/data_plane.md#p4)
 - [Github: p4lang](https://github.com/p4lang)
 
-**5.Introduction papers：**
+**6.Introduction papers：**
 
-- 《The Road to SDN》
+- 《The road to SDN - an intellectual history of programmable networks》
 - 《OpenFlow: Enabling Innovation in Campus Networks》
 - 《Software-Defined Networking: A Comprehensive Survey》
 
@@ -92,7 +106,7 @@ Hint：They can be acquired from:
 - School library homepage => Journal => IEEE or ACM Search
 - Google academic search
 
-**6.Experiment platform：**
+**7.Experiment platform：**
 
 - [SDNLAB 实验平台](http://www.sdnlab.com/1749.html)
 - [SDNLAB SDN Guide](http://www.sdnlab.com/sdn-guide/)
