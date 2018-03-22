@@ -1,12 +1,12 @@
 # The Road to SDN
 
-Fuzhou University SDN Lab - The Road to SDN
+This page gives the steps of learning Software Defined Networking.
 
-This page is a list of steps and procedures for how SDN is getting started in SDN Labs at Fuzhou University.
+Hint: The following repository collects a series of relevant resources of SDN. We recommend you to read it first: [awesome-sdn](https://github.com/sdnds-tw/awesome-sdn)
 
-## Get Start
+## Download
 
-To clone this repo, first you should git clone it. Then clone the submodules:
+This repository has submodules so that you should clone it as follows:
 
 ```
 git submodule update --init --recursive
@@ -18,13 +18,7 @@ To update submodules:
 git submodule update --remote --merge
 ```
 
-## Awesome SDN
-
-The following link has collected a series of information and related learning platforms for SDN.
-
-[Wasdns Awesome SDN](https://github.com/Wasdns/awesome-sdn)
-
-## The Road to SDN - List
+## The Road to SDN
 
 | Step                           | Prerequisite knowledge   | Time   | Difficulty   |
 | ---------------------------- | ---- | ---- | ---- |
@@ -47,74 +41,58 @@ The following link has collected a series of information and related learning pl
 
 **3.《重构网络》：**
 
-[SDNLAB 《重构网络》](http://www.sdnlab.com/book/18762.html)
+[SDNLAB_《重构网络》](http://www.sdnlab.com/book/18762.html)
 
 **4.mininet：**
 
-mininet deployment：
+Installation：
 
-[通过脚本快速安装Open vSwitch2.3.0和Mininet](http://www.sdnlab.com/3046.html)
+- [通过脚本快速安装Open vSwitch2.3.0和Mininet](http://www.sdnlab.com/3046.html)
 
-mininet learning：
+Learning guide：
 
-[mininet学习指南 李呈](http://www.sdnlab.com/11495.html)
+- [mininet学习指南 李呈](http://www.sdnlab.com/11495.html)
 
-Control plane：
+Controller：
 
 (1)OpenDayLight:
 
-[OpenDaylight与Mininet应用实战之基本环境搭建](http://www.sdnlab.com/1749.html)
+- [OpenDaylight与Mininet应用实战之基本环境搭建](http://www.sdnlab.com/1749.html)
 
 (2)Ryu:
 
 - [RYU Github](https://github.com/osrg/ryu)
-
 - [RYU 入门教程](http://www.sdnlab.com/1785.html)
-
 - [RYU tutorial](http://ryu.readthedocs.io/en/latest/getting_started.html)
-
 - [《RYU BOOK》](https://github.com/peiqiaoWang/The-Road-to-SDN/blob/master/RYU/Ryubook.pdf)
 
-Data plane：
+Data plane devices：
 
 (1)Open vSwitch:
 
-[OVS基本命令](https://github.com/peiqiaoWang/The-Road-to-SDN/blob/master/OVS/ovs-commands-reference.pdf)
+- [OVS基本命令](https://github.com/peiqiaoWang/The-Road-to-SDN/blob/master/OVS/ovs-commands-reference.pdf)
 
 (2)P4:
 
+- [P4 Tutorials](https://github.com/p4lang/tutorials)
+- [P4 Environment Installer](https://github.com/Wasdns/p4Installer)
 - [The Road to P4](https://github.com/Wasdns/The-Road-to-P4)
-
-- [Official Website](http://p4.org/)
-
-- [2017 FZU P4 Workshop](https://github.com/Wasdns/2017_FZU_P4_Workshop)
-
+- [P4 Consortium Website](http://p4.org/)
 - [Open SDN Engineer Skill Map: P4](https://github.com/PONOUBA/opensdn_engineer_skill_map/blob/master/skill_map_md/data_plane.md#p4)
+- [Github: p4lang](https://github.com/p4lang)
 
-- [P4 Github: p4lang](https://github.com/p4lang)
-
-**5.introductory papers：**
-
-middle level：
+**5.Introduction papers：**
 
 - 《The Road to SDN》
-
 - 《OpenFlow: Enabling Innovation in Campus Networks》
-
-hard level：
-
 - 《Software-Defined Networking: A Comprehensive Survey》
 
-Hint：Resources are available from:
+Hint：They can be acquired from:
 
-- School Library Homepage => Journal => IEEE / ACM Search
+- School library homepage => Journal => IEEE or ACM Search
+- Google academic search
 
-- Google Academic Search
+**6.Experiment platform：**
 
-**6.Experiment Platform：**
-
-[SDNLAB 实验平台](http://www.sdnlab.com/1749.html)
-
-**7.SDN Guide:**
-
-[SDNLAB SDN Guide](http://www.sdnlab.com/sdn-guide/)
+- [SDNLAB 实验平台](http://www.sdnlab.com/1749.html)
+- [SDNLAB SDN Guide](http://www.sdnlab.com/sdn-guide/)
